@@ -1,4 +1,6 @@
 #Welcome to the Toowoomba NodeJS Club
+
+[![Join the chat at https://gitter.im/schme16/toowoomba-nodejs-club](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/schme16/toowoomba-nodejs-club?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is the collaborative space for the Toowoomba NodeJS Club
 The club is here to help new developers find connections, as questions, get guidence and learn the tips and tricks of the trade, as well as a place where Toowoomba's local developers can meet each other and have fun!
 
